@@ -115,7 +115,7 @@ ScriptedImporter:
   multiSpriteImportData:
   - name: KoiFish
     originalName: 
-    pivot: {x: 0.5, y: -0.3888889}
+    pivot: {x: 0.5, y: -0.33333334}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -124,7 +124,7 @@ ScriptedImporter:
       y: 4
       width: 32
       height: 18
-    spriteID: 03e1c3aca1bf1804bac889c856f33a94
+    spriteID: e93f2ab5776eca34080cea3af95507a0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -144,10 +144,10 @@ ScriptedImporter:
       frameIndex: 0
       cellRect:
         x: 0
-        y: 7
+        y: 6
         width: 32
         height: 18
-      spriteId: 03e1c3aca1bf1804bac889c856f33a94
+      spriteId: e93f2ab5776eca34080cea3af95507a0
     linkedCells: []
     parentIndex: -1
   platformSettings: []
